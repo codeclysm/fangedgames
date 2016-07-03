@@ -4,6 +4,14 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+    <!-- Social media stuff -->
+    <meta property="og:title" content="{{ .Title }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta property="og:description" content="{{ .Summary }}" />
+    <!-- End Social media stuff -->
+
     <title>{{ .Site.Title }} &middot; {{ .Title }}</title>
     <style>
         .container, header {
