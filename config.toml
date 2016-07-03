@@ -1,7 +1,14 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://www.fangedgames.com/"
 languageCode = "en-us"
-title = "Fanged Games - careful, they bite"
+title = "Fanged Games"
 
 [Params]
-    Author = "Matteo Suppo"
-    disqusShortname = "fangedgames"
+Author = "Matteo Suppo"
+DisqusShortname = "fangedgames"
+AnalyticsID = "UA-80263861-1"
+
+[[menu.main]]
+name = "Home"
+weight = -110
+identifier = "home"
+url = "/"

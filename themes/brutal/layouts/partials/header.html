@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <title>{{ .Site.Title }} &middot; {{ .Title }}</title>
+    <style>
+        .container, header {
+            max-width: 60em;
+            margin: 0 auto;
+        }
+
+        header {
+            padding-bottom: 1em;
+            border-bottom: 1px solid black;
+        }
+
+        nav {
+            display: flex;
+        }
+
+        nav li {
+            list-style: none;
+            margin-right: 1em;
+        }
+
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Fanged Games</h1>
+        <nav class="menu">
+            {{ range .Site.Menus.main }}
+            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{end}}
+        </nav>
+    </header>
