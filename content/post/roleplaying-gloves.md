@@ -3,6 +3,7 @@ date = "2016-07-03T08:14:56+02:00"
 draft = false
 title = "The roleplaying gloves"
 comments = true
+description = "A collection of techniques that can help you tune the distance between you and the game, in order to find the spot that lets you feel more in control, more safe."
 +++
 
 Roleplaying can be dangerous. Ok, maybe not "Juggling venomous snakes blindfolded" dangerous, but still, you can encounter some pretty awful situations and you can hurt yourself.
