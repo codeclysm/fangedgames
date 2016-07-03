@@ -6,6 +6,7 @@ title = "Fanged Games"
 Author = "Matteo Suppo"
 DisqusShortname = "fangedgames"
 AnalyticsID = "UA-80263861-1"
+Summary = true
 
 [[menu.main]]
 name = "Home"

@@ -15,6 +15,8 @@ Here's a collection of techniques that can help you tune the distance between yo
 
 They're like gloves, that allows you to touch itchy and stinging things without hurting yourself.
 
+<!--more-->
+
 ## Character creation
 Most games have a character creation phase, where you build the characters you will roleplay. When you act out a role your brain doesn't know you are just playing, and it will respond to external stimuli in pretty much the same way. This means that you can easily feel the emotions of your character.
 
