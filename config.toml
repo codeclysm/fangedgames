@@ -1,0 +1,7 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Fanged Games - careful, they bite"
+
+[Params]
+    Author = "Matteo Suppo"
+    disqusShortname = "fangedgames"
