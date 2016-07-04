@@ -2,6 +2,7 @@
 draft = false
 title = "Who are you?"
 menu = "main"
+description = "Fanged games is a one-person collective with the goal of creating raw games that bite."
 +++
 
 Fanged games is a one-person collective with the goal of creating raw games that bite.
