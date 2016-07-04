@@ -8,6 +8,9 @@ DisqusShortname = "fangedgames"
 AnalyticsID = "UA-80263861-1"
 Summary = true
 
+[taxonomies]
+category = "categories"
+
 [[menu.main]]
 name = "Home"
 weight = -110
