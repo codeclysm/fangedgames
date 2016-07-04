@@ -7,11 +7,13 @@ description = "A revisitation of Monsterhearts with a focus on emotions"
 categories = ["design"]
 +++
 
-**BE WARY: THIS IS NOT THE SECOND EDITION OF MONSTERHEARTS AND THIS CONTENT IS JUST FAN CONTENT**
-
-Turmoil is an unofficial fork of [http://buriedwithoutceremony.com/monsterhearts/](Monsterhearts).  It keeps most of the interesting bits but it changes profoundly the way they behave. It takes inspiration from [Masks](http://www.magpiegames.com/masks/) and [the Rustbelt](http://www.angelfire.com/indie/btw/games/rustbelt.html)
+Turmoil is an unofficial fork of [Monsterhearts](http://buriedwithoutceremony.com/monsterhearts/).  It keeps most of the interesting bits but it changes profoundly the way they behave. It takes inspiration from [Masks](http://www.magpiegames.com/masks/) and [the Rustbelt](http://www.angelfire.com/indie/btw/games/rustbelt.html).
 
 One of the core belief behind this rehaul is that players should never lose completely control over the game, even if their characters are helpless, but that control can be relinquished in some measure in order to make the game interesting.
+
+<!--more-->
+
+**BE WARY: THIS IS NOT THE SECOND EDITION OF MONSTERHEARTS AND THIS CONTENT IS JUST FAN CONTENT**
 
 ## Conditions
 Conditions are completely different from Monsterhearts. I liked the idea of conditions that weakened you such as in masks, but I wanted them more crippling. The characters don't really know how to manage them, so they are big obstacles.
