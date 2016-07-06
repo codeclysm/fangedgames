@@ -24,7 +24,7 @@ Conditions aren't solely triggered by moves, but by the fiction as well. It's co
 
 **While you are turned on** you can't spend strings. To remove it act on your impulses or give a hot string to someone.
 
-**While you are angry** you can't flee or make a move on someone. To remove it hurt someone or bottle it up.
+**While you are angry** you can't flee or make a move on someone. To remove it hurt someone or bottle it up. You can bottle it only 3 times. When you hurt someone you can start bottle it up again.
 
 **While you are hurt** you can't make 10+ on moves. To remove it seek help and heal or become your darkest self. If you were to become hurt while you already are hurt you become broken.
 
