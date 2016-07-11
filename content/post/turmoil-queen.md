@@ -1,7 +1,7 @@
 +++
 date = "2016-07-11T14:44:29+02:00"
 draft = false
-title = "turmoil queen"
+title = "Turmoil: The queen"
 comments = true
 description = "A revisitation of the Queen from Monsterhearts"
 categories = ["design"]
@@ -35,7 +35,7 @@ Choose 2 downsides:
 
 Choose 2 moves
 
-**The shield**: When someone from your clique protects you, roll +Cold. On a 7-9, choose 1. On a 10+, choose 2.
+**The shield**: When you shield yourself with someone from your clique, roll +Cold. On a 7-9, choose 1. On a 10+, choose 2.
 - You aren't afraid
 - They aren't afraid
 - They aren't hurt
