@@ -24,6 +24,7 @@ Choose 2:
 **Growing Pains**: When you fail to protect your friends, mark experience.
 
 **Cold Blood**: When you gather your courage, you can roll+Cold. On a 10+ choose 3, On a 7-9 choose 1.
+
 - You aren't scared anymore
 - You gain +1 to your next roll
 - You gain a cold string on the scariest person present
@@ -34,6 +35,7 @@ Choose 2:
 **Light the way**: Whenever your friends follow through on your commands or your lead, they can use the Cold Blood Move (even if you don't have it)
 
 **To the books**: When you research a way to fight a threat, roll with the number of people assisting you. On a 10+, choose 2. On a 7-9, choose 1.
+
 - Ask the MC a question (MC must answer truthfully)
 - Gain a cold string on your enemy
 - You aren't uneasy.

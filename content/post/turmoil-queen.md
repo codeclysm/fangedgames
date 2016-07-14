@@ -20,6 +20,7 @@ Hot 1, Cold 1, Volatile -1, Dark -1
 You get a Clique. It's usually half a dozen close friends who look up at you.
 
 Choose 2 perks:
+
 - They are a lot (like a dozen)
 - They can defend themselves (they're armed or trained)
 - They know people (who can sell them the cool drugs, or get them into the hot clubs)
@@ -27,6 +28,7 @@ Choose 2 perks:
 - They are as family (they are ready to fight for each other)
 
 Choose 2 downsides:
+
 - They are few (like 2 or 3)
 - They are dangerous (they have no problem with violence and crime)
 - They are scorned (by other popular groups)
@@ -47,6 +49,7 @@ Choose 2 moves
 **Puppeteer**: When you ask someone in your clique to do something for you, roll +Hot. On a 7-9, they choose whether to do it or be Uneasy. On a 10+ they choose whether to do it or be Hurt.
 
 **Streaming**: When you probe the mind of someone in your clique, roll +Dark. On a 7-9, ask 1. On a 10+, ask 3:
+
 - What do you think about ____?
 - What's your greates fear?
 - What's your greatest dream?

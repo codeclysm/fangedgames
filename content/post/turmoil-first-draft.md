@@ -42,25 +42,30 @@ Most of the basic moves are used to provoke the other character into feeling som
 **When you shut someone down** roll +cold. On a success they choose if they are hurt or angry. On a 10+ they lose whatever hot string they had on you
 
 **When you lash out** roll+volatile. On a 10+ they choose two. On a 7-9 they choose one.
+
 - they aren't scared
 - they aren't hurt
 - you are hurt
 
 **When you flee** roll +volatile. On a 7-9 choose one. On a 10+ choose two.
+
 - it's not a big scene
 - you don't give a cold string to who you're fleeing from
 
 **When you manipulate someone with a threat** roll+cold. On a 7-9 they must choose 1. On a 10+ they must choose 2
+
 - they do what you want
 - they are scared
 - you have to make good on your threat
 
 **when you manipulate someone with a promise** roll +hot. On a 7-9 they must choose 1. On a 10+ they must choose 2.
+
 - they do what you want
 - they are uneasy
 - you have to give something now
 
 **When you gaze into the abyss** roll+dark. The abyss will always answer. On a 7-9 choose 2, on a 10+ choose three.
+
 - It answers to what you asked
 - It cures you from a condition
 - It makes you happy
@@ -71,6 +76,7 @@ Most of the basic moves are used to provoke the other character into feeling som
 There are two kind of strings, used to influence people in different ways. You can spend them as currency to make the actions against the people who gave you the string.
 
 **Hot string**
+
 - Make a move on someone without rolling as if you made 7-9
 - Manipulate someone with a promise
 - ask a question from this list
@@ -79,6 +85,7 @@ There are two kind of strings, used to influence people in different ways. You c
   - what's your greatest desire?
 
 **Cold string**
+
 - Shut someone down without rolling as if you made 7-9
 - Manipulate someone with a threat
 - ask a question from this list
