@@ -1,7 +1,7 @@
 +++
 date = "2016-07-05T14:09:57+02:00"
 draft = false
-title = "Turmoil: the Chosen"
+title = "Turmoil: The Chosen"
 comments = true
 description = "A revisitation of the Chosen from Monsterhearts"
 categories = ["design"]

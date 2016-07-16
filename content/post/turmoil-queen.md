@@ -1,7 +1,7 @@
 +++
 date = "2016-07-11T14:44:29+02:00"
 draft = false
-title = "Turmoil: The queen"
+title = "Turmoil: The Queen"
 comments = true
 description = "A revisitation of the Queen from Monsterhearts"
 categories = ["design"]

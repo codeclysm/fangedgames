@@ -1,7 +1,7 @@
 +++
 date = "2016-07-16T15:00:08+02:00"
 draft = false
-title = "turmoil ghost"
+title = "Turmoil: The Ghost"
 comments = true
 description = "A revisitation of the Ghost from Monsterhearts"
 categories = ["design"]
