@@ -1,7 +1,7 @@
 +++
 date = "2016-07-14T08:55:07+02:00"
 draft = false
-title = "Turmoil: first playtest"
+title = "Turmoil: first playtest part 1"
 comments = true
 description = "We tested on hangout the first draft of Turmoil. Not bad."
 categories = ["design", "actual play"]
