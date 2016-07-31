@@ -82,7 +82,7 @@ On a success they choose if they are hurt or angry. On a 10+ they lose whatever 
 
 **When you lash out** roll+volatile.
 
-On a 10+ they are hurt. On a 10+ they also choose if they are Scared or if they give you a Cold String.
+On a success they are hurt. On a 10+ they also choose if they are Scared or if they give you a Cold String.
 
 **When you flee** roll +volatile.
 
@@ -104,10 +104,12 @@ On a 7-9 they choose:
 **When you manipulate someone with a promise** roll+cold.
 
 On a 10+ they choose:
+
 - They do what you want
 - They don't do what you want and they are uneasy.
 
 On a 7-9 they can also choose:
+
 - They do what you want if you give them something more.
 - They give (or promise) you something else of value.
 
@@ -116,7 +118,7 @@ On a 7-9 they can also choose:
 - It answers to what you asked
 - It cures you from a condition
 - It makes you happy
-- you are not uneasy when it's finished.
+- You are not uneasy when it's finished.
 - You gain a Hot String or a Cold string on the subject of your visions.
 
 ## Strings
